@@ -1,0 +1,11 @@
+{
+  "id": 2,
+  "nom": "Nom Professorat",
+  "img": "foto",
+  "mail": "correu@upc.edu",
+  "despatx": "00-00",
+  "consultes": [
+    "Dilluns 00:00-00:00",
+    "Dimecres 00:00-00:00"
+  ]
+}
