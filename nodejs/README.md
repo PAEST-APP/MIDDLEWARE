@@ -12,3 +12,5 @@ Video 2: https://www.youtube.com/watch?v=dFaV95gS_0M&list=PLW8v14OVp7AXQcr2-p_7Y
 Link 1: https://developers.google.com/calendar/quickstart/nodejs
 
 Link 2: https://developers.google.com/calendar/create-events
+
+API: https://developers.google.com/calendar/v3/reference/
