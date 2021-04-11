@@ -14,3 +14,9 @@ Link 1: https://developers.google.com/calendar/quickstart/nodejs
 Link 2: https://developers.google.com/calendar/create-events
 
 API: https://developers.google.com/calendar/v3/reference/
+
+Links de interes Cliente server https:
+https://www.youtube.com/watch?v=3lSwcTmiP4k&ab_channel=codedamn
+https://www.youtube.com/watch?v=EnFbxL_3tzw&ab_channel=codedamn
+https://www.digitalocean.com/community/tutorials/how-to-create-an-http-client-with-core-http-in-node-js
+
