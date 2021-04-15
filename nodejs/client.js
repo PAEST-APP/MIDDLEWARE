@@ -35,11 +35,13 @@ const request = http.request(options, (res) => {
     studentEmail: 'youssef.elhg@gmail.com',
     teacherName: 'Saul Garcia Huertes',
     teacherEmail: 'paest.app@gmail.com',
+    teacherSubject: 'PAE',
 
     meeting: {
-      start: '2021-02-04T20:30:00',
-      end: '2021-02-04T20:50:00',
+      start: '2021-04-15T20:30:00',
+      end: '2021-04-15T20:50:00',
     }
+    
 
   };
 
