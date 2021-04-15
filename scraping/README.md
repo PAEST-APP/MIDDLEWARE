@@ -25,6 +25,6 @@ El archivo devuelve un JSON con la información del profesor de la siguiente man
    ]
   
 }
-``
+```
 
 Aún se tiene que usar como parámetetro la ID del profesor.
