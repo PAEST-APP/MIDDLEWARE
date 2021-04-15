@@ -1,7 +1,7 @@
 # Scrapping
-Con la finalidad de obtener la información, se hace scrapping de <https://directori.upc.edu>  
+In order to obtain all the data, we do scrapping of <https://directori.upc.edu>  
 
-El archivo devuelve un JSON con la información del profesor de la siguiente manera:
+The script returns a JSON with the information about the professor, following the next structure:
 
 ```
 {
@@ -27,4 +27,4 @@ El archivo devuelve un JSON con la información del profesor de la siguiente man
 }
 ```
 
-Aún se tiene que usar como parámetetro la ID del profesor.
+The URL (or the ID) of the professor is still needed.
