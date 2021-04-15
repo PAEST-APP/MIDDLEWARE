@@ -1,9 +1,10 @@
 # Scrapping
-Con la finalidad de obtener la información, se hace scrapping de <directori.upc.edu>  
+Con la finalidad de obtener la información, se hace scrapping de <https://directori.upc.edu>  
 
 El archivo devuelve un JSON con la información del profesor de la siguiente manera:
 
-``{
+```
+{
 
    "id": 2,
   
@@ -23,6 +24,7 @@ El archivo devuelve un JSON con la información del profesor de la siguiente man
     
    ]
   
-}``
+}
+``
 
 Aún se tiene que usar como parámetetro la ID del profesor.
