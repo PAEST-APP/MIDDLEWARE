@@ -68,6 +68,7 @@ function createEvent(studentName, studentEmail, teacherName, teacherEmail, teach
                     {
                         calendarId: 'primary',
                         resource: event,
+                        sendNotifications: true,
                     },
                     err => {
                         // Check for errors and log them if they exist.
@@ -77,8 +78,7 @@ function createEvent(studentName, studentEmail, teacherName, teacherEmail, teach
                     }
                 )
 
-            return console.log(`Sorry I'm busy...`
-            )
+            return console.log(`Sorry I'm busy...`)
         }
     )
 
