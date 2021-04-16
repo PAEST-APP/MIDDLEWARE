@@ -2,9 +2,9 @@ const { google } = require('googleapis')
 
 const { OAuth2 } = google.auth
 
-const oAuth2Client = new OAuth2('122622258650-p6df7on318mfc71ssh2ucvn3nql6qo9f.apps.googleusercontent.com', 'gROjLFjm3XcRgqBoAqJrxx2B')
+const oAuth2Client = new OAuth2('4056149695-12t0f5aengg51d7f6kkia7uicm5taje0.apps.googleusercontent.com', '7ab07LHwUDLMEsk2-eGAK6rH')
 
-oAuth2Client.setCredentials({ refresh_token: '1//04UTSfAQDOUXeCgYIARAAGAQSNwF-L9IrqEbIlargr1sExgHu0aSFhji_rYlGeaEM9F6atTOduql6XZggMOeCVwTLj0L-_ITTgfc' })
+oAuth2Client.setCredentials({ refresh_token: '1//04fNuh6IgajE1CgYIARAAGAQSNwF-L9Ir5LpDL0EEAj3iPlGLuXJAuo8WMvCGXWOXd0OM26b-sdDsba48eLbsCemQNY1FOinegZs' })
 
 const calendar = google.calendar({ version: 'v3', auth: oAuth2Client })
 
