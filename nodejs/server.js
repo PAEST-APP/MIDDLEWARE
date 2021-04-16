@@ -4,10 +4,17 @@ var calen= require('./index');
 
 var app = express();
 
-app.use(bodyParser.json());
+app.use(bodyParser.json());     //es necessari????
+
+
+app.use(function(req, res, next) { ////important pel cors
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+  next();
+});
 
 app.post('/', function(request,response){
-  
+ 
 var data = request.body;
 var studentName= data.studentName;
 var studentEmail= data.studentEmail;
@@ -19,7 +26,9 @@ var meetingEnd= data["meeting"].end;
 
 calen.createEvent(studentName, studentEmail, teacherName, teacherEmail, teacherSubject, meetingStart, meetingEnd);
 
-response.send(201);
+response.writeHead(201, {'Content-Type': 'text/html'}); //editat
+response.end("S'ha sol·licitat la consulta correctament"); //editat
+//response.send(201);
 })
 
 app.listen(3000, function () {
