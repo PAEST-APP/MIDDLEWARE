@@ -23,3 +23,5 @@ https://www.youtube.com/watch?v=EnFbxL_3tzw&ab_channel=codedamn
 
 https://www.digitalocean.com/community/tutorials/how-to-create-an-http-client-with-core-http-in-node-js
 
+https://www.480interactive.com/soporte480i/knowledgebase/almacenamiento/ (Web hosting)
+
