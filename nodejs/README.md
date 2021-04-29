@@ -23,6 +23,8 @@ https://developers.google.com/calendar/auth
 
 Overlaping Events: https://stackoverflow.com/questions/51710253/how-to-check-the-availability-of-the-calendar-in-google-calendar
 
+Get ID ? : https://stackoverflow.com/questions/36955168/how-to-get-all-public-calendar-of-specific-user
+
 ### Links de interes Cliente server https:
 
 https://www.youtube.com/watch?v=3lSwcTmiP4k&ab_channel=codedamn
