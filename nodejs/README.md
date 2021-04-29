@@ -15,7 +15,11 @@ Link 2: https://developers.google.com/calendar/create-events
 
 API: https://developers.google.com/calendar/v3/reference/
 
+API calendario público: 
+
 http://es.uwenku.com/question/p-eevkusrr-x.html
+
+https://developers.google.com/calendar/auth
 
 Links de interes Cliente server https:
 
