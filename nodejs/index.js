@@ -1,15 +1,27 @@
+
+const { response } = require('express')
 const { google } = require('googleapis')
 
 const { OAuth2 } = google.auth
 
 const oAuth2Client = new OAuth2('34796249029-1ql4i2ppti30oqcttfbik7ud8psvqvkp.apps.googleusercontent.com', 'E4au1mKUWy4JrJ-GYgSV3pVv')
 
-oAuth2Client.setCredentials({ refresh_token: '1//04GIcCahRq70hCgYIARAAGAQSNwF-L9Ir-wDzyNbOqaamP-sSk0hm1mSr_q3mXhOwRauNDu0zF2iXAVLdEHz0V7ywJKHlg7Bcq8U' })
+oAuth2Client.setCredentials({ refresh_token: '1//04_a0ZFEP4ORHCgYIARAAGAQSNwF-L9IrOUR4Q5sANoP-LrJa-aWg8J7FX693GbqW4hGTVXE_mnd-kFLnJ64ipaIGp7O-JcMw1MU'})
 
 const calendar = google.calendar({ version: 'v3', auth: oAuth2Client })
 
 
-function createEvent(studentName, studentEmail, teacherName, teacherEmail, teacherSubject, meetingStart, meetingEnd) {
+function createEvent(request,response) {
+//variables del JSON
+  var data = request.body;
+  var studentName= data.studentName;
+  var studentEmail= data.studentEmail;
+  var teacherName= data.teacherName;
+  var teacherEmail=data.teacherEmail;
+  var teacherSubject= data.teacherSubject;
+  var meetingStart= data["meeting"].start;
+  var meetingEnd= data["meeting"].end;
+
 
     var dateStart = new Date(meetingStart);
     var dateEnd = new Date(meetingEnd);
@@ -56,8 +68,7 @@ function createEvent(studentName, studentEmail, teacherName, teacherEmail, teach
         },
         (err, res) => {
             // Check for errors in our query and log them if they exist.
-            if (err) return console.error('Free Busy Query Error: ', err)
-
+            if (err) response.writeHead(404, {'Content-Type': 'text/html'});
             // Create an array of all events on our calendar during that time.
             const eventArr = res.data.calendars.primary.busy
 
@@ -72,13 +83,13 @@ function createEvent(studentName, studentEmail, teacherName, teacherEmail, teach
                     },
                     err => {
                         // Check for errors and log them if they exist.
-                        if (err) return console.error('Error Creating Calender Event:', err)
+                        if (err) response.writeHead(400, {'Content-Type': 'text/html'});
                         // Else log that the event was created.
-                        return console.log('Calendar event successfully created. ' + calendarId)
+                        response.writeHead(201, {'Content-Type': 'text/html'});
                     }
                 )
 
-            return console.log(`Sorry I'm busy...`)
+                response.writeHead(480, {'Content-Type': 'text/html'});
         }
     )
 
