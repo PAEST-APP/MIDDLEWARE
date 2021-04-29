@@ -15,7 +15,7 @@ Link 2: https://developers.google.com/calendar/create-events
 
 API: https://developers.google.com/calendar/v3/reference/
 
-API calendario público: 
+###API calendario público: 
 
 https://developers.google.com/calendar/quickstart/js
 
@@ -23,7 +23,7 @@ https://developers.google.com/calendar/auth
 
 Overlaping Events: https://stackoverflow.com/questions/51710253/how-to-check-the-availability-of-the-calendar-in-google-calendar
 
-Links de interes Cliente server https:
+###Links de interes Cliente server https:
 
 https://www.youtube.com/watch?v=3lSwcTmiP4k&ab_channel=codedamn
 
