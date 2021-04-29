@@ -15,6 +15,8 @@ Link 2: https://developers.google.com/calendar/create-events
 
 API: https://developers.google.com/calendar/v3/reference/
 
+http://es.uwenku.com/question/p-eevkusrr-x.html
+
 Links de interes Cliente server https:
 
 https://www.youtube.com/watch?v=3lSwcTmiP4k&ab_channel=codedamn
