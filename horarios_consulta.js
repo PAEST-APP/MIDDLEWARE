@@ -1,0 +1,57 @@
+
+const infoProfe = {
+    "codi_persona": 1563,
+    "consultes": [
+        "Dimecres 16:00-18:00"
+    ],
+    "despatx": "D6-212",
+    "email": "guerrero@ac.upc.edu",
+    "nom_prof": "MANEL GUERRERO ZAPATA"
+}
+
+let date, weekDay;
+consulta=infoProfe.consultes[0];
+
+weekDay = 1; //di de la semana, empieza con domingo
+date = new Date();
+let dateEnd = new Date();
+
+let currentDay = date.getDay(); // horari d'inici de la consulta
+let distance = weekDay - currentDay;
+date.setDate(date.getDate() + distance);
+date.setHours(12, 0, 0);
+//console.log(date);
+
+dateEnd.setDate(dateEnd.getDate() + distance); // horari de fi de la consulta
+dateEnd.setHours(15, 30, 0);
+//console.log(dateEnd);
+
+let i = false;
+let horaris = [];
+let meetingLength = 30;
+horaris.push(date);
+
+while (!i) { // guarda tots els slots de 30min entre la hora d'inici i fi de consulta del professorat
+    let horari = new Date(horaris[horaris.length - 1].getTime() + meetingLength * 60000);
+    if (horari.getTime() < dateEnd.getTime()) {
+        horaris.push(horari);
+    } else {
+        i = true;
+    }
+}
+//console.log("HORARIS FINALS");
+//console.log(horaris);
+
+let horaris2 = []; // agafa totes les hores disponibles per consulta amb els seus slots,i les passa a la setmana següent
+for (let j = 0; j < 12; j++) {
+    for (let i = 0; i < horaris.length; i++) {
+
+        let date2 = new Date();
+        date2.setDate(horaris[i].getDate() + j*7);
+        date2.setHours(horaris[i].getHours(), horaris[i].getMinutes(), 0);
+        horaris2.push(date2);
+    }
+}
+
+console.log("NEXT WEEK");
+console.log(horaris2);
