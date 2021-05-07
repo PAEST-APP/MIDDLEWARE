@@ -13,6 +13,7 @@ function get_professor(id){
     con.query("SELECT * FROM directori WHERE codi_persona = " + id, function (err, result, fields) {
         if (err) throw err;
         console.log(result);
+        return result;
     });
     con.end();
     });
