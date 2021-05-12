@@ -1,0 +1,1415 @@
+{
+  "data": [
+    {
+      "consultes": [
+        "Dimecres 10:00-12:00",
+        "Dijous 10:00-12:00",
+        "Dilluns 10:00-12:00"
+      ],
+      "despatx": "C3-219",
+      "email": "jorge.villar@upc.edu",
+      "id_gauss": 1000016,
+      "nom_prof": "JORGE LUIS VILLAR SANTOS"
+    },
+    {
+      "consultes": [
+        "Dilluns 11:00-13:00",
+        "Dijous 11:00-13:00"
+      ],
+      "despatx": "Pavello G-Plta 1",
+      "email": "jose.iribarren@upc.edu",
+      "id_gauss": 1000043,
+      "nom_prof": "JOSE IGNACIO IRIBARREN LACO"
+    },
+    {
+      "consultes": [
+        "Dimarts 12:00-14:00",
+        "Divendres 13:00-14:00",
+        "Dijous 14:00-16:00",
+        "Dijous 11:00-12:00"
+      ],
+      "despatx": "C4-210",
+      "email": "juan.lopez.gonzalez@upc.edu",
+      "id_gauss": 1000063,
+      "nom_prof": "JUAN MIGUEL LOPEZ GONZALEZ"
+    },
+    {
+      "consultes": [
+        "Dimarts 09:00-10:00",
+        "Dimarts 13:00-14:00",
+        "Dijous 10:00-14:00"
+      ],
+      "despatx": "D5-104",
+      "email": "m.jose.soneira@upc.edu",
+      "id_gauss": 1000076,
+      "nom_prof": "M. JOSE SONEIRA FERRANDO"
+    },
+    {
+      "consultes": [
+        "Dilluns 12:00-14:00",
+        "Dimecres 12:00-14:00",
+        "Divendres 12:00-14:00"
+      ],
+      "despatx": "B4-208",
+      "email": "gemma.sese@upc.edu",
+      "id_gauss": 1000080,
+      "nom_prof": "GEMMA SESE CASTEL"
+    },
+    {
+      "consultes": [
+        "Dimarts 15:00-19:00",
+        "Dijous 17:00-19:00"
+      ],
+      "despatx": "G meet",
+      "email": "ferran.silva@upc.edu",
+      "id_gauss": 1000084,
+      "nom_prof": "FERNANDO SILVA MARTINEZ"
+    },
+    {
+      "consultes": [
+        "Dilluns 10:00-12:00",
+        "Dimarts 10:00-12:00",
+        "Dijous 10:00-12:00"
+      ],
+      "despatx": "C5-010 B",
+      "email": "olga.pons@upc.edu",
+      "id_gauss": 1000092,
+      "nom_prof": "OLGA PONS PEREGORT"
+    },
+    {
+      "consultes": [
+        "Dimecres 09:00-13:00",
+        "Dijous 09:30-11:30",
+        "Dimarts 10:00-11:00"
+      ],
+      "despatx": "C4-310",
+      "email": "javier.rosell@upc.edu",
+      "id_gauss": 1000135,
+      "nom_prof": "FRANCISCO JAVIER ROSELL FERRER"
+    },
+    {
+      "consultes": [
+        "Dilluns 08:00-12:00",
+        "Dimarts 08:00-12:00",
+        "Dimecres 10:30-12:30"
+      ],
+      "despatx": "Via Google/Meet",
+      "email": "enric.monte@upc.edu",
+      "id_gauss": 1000147,
+      "nom_prof": "ENRIQUE MONTE MORENO"
+    },
+    {
+      "consultes": [
+        "Dimecres 12:00-13:00",
+        "Dijous 09:00-11:00",
+        "Divendres 09:00-12:00"
+      ],
+      "despatx": "D3-112",
+      "email": "pradell@tsc.upc.edu",
+      "id_gauss": 1000168,
+      "nom_prof": "LLUIS PRADELL CARA"
+    },
+    {
+      "consultes": [
+        "Dimecres 11:00-14:00",
+        "Divendres 10:00-13:00"
+      ],
+      "despatx": "D6-104",
+      "email": "pau@ac.upc.edu",
+      "id_gauss": 1000170,
+      "nom_prof": "PABLO BOFILL SOLIGUER"
+    },
+    {
+      "consultes": [
+        "Dimecres 11:00-13:00",
+        "Dilluns 10:00-12:00",
+        "Dijous 11:00-13:00"
+      ],
+      "despatx": "C6-110",
+      "email": "marisa@ac.upc.edu",
+      "id_gauss": 1000177,
+      "nom_prof": "MARIA LUISA GIL GOMEZ"
+    },
+    {
+      "consultes": [
+        "Dimecres 11:00-13:00",
+        "Dimarts 10:00-13:00"
+      ],
+      "despatx": "D5-211",
+      "email": "albert@tsc.upc.edu",
+      "id_gauss": 1000268,
+      "nom_prof": "ALBERT OLIVERAS VERGES"
+    },
+    {
+      "consultes": [
+        "Divendres 14:00-15:00",
+        "Dimarts 12:00-13:00",
+        "Dimecres 12:00-13:00",
+        "Dimecres 14:00-16:00",
+        "Divendres 12:00-13:00"
+      ],
+      "despatx": "C3-217",
+      "email": "josep.m.aroca@upc.edu",
+      "id_gauss": 1000270,
+      "nom_prof": "JOSEP MARIA AROCA FARRERONS"
+    },
+    {
+      "consultes": [
+        "Dilluns 17:00-19:00",
+        "Dijous 12:00-14:00",
+        "Divendres 12:00-14:00"
+      ],
+      "despatx": "meet",
+      "email": "jose.fonollosa@upc.edu",
+      "id_gauss": 1000293,
+      "nom_prof": "JOSE ADRIAN RODRIGUEZ FONOLLOSA"
+    },
+    {
+      "consultes": [
+        "Dimecres 15:30-17:00",
+        "Dilluns 15:30-18:00",
+        "Dimarts 15:30-17:30"
+      ],
+      "despatx": "C3-205A",
+      "email": "narciso.roman@upc.edu",
+      "id_gauss": 1000323,
+      "nom_prof": "NARCISO ROMAN ROY"
+    },
+    {
+      "consultes": [
+        "Dilluns 17:00-18:00",
+        "Dimarts 16:00-18:00",
+        "Divendres 10:00-12:00",
+        "Dijous 17:00-18:00"
+      ],
+      "despatx": "D6-110",
+      "email": "pareta@ac.upc.edu",
+      "id_gauss": 1000368,
+      "nom_prof": "JOSEP SOLE PARETA"
+    },
+    {
+      "consultes": [
+        "Divendres 10:00-12:00",
+        "Dijous 10:00-12:00",
+        "Dimarts 10:00-12:00"
+      ],
+      "despatx": "C4-203",
+      "email": "joan.pons@upc.edu",
+      "id_gauss": 1000423,
+      "nom_prof": "JOAN PONS NIN"
+    },
+    {
+      "consultes": [
+        "Dilluns 16:00-18:00",
+        "Dimecres 10:00-12:00",
+        "Divendres 10:00-12:00"
+      ],
+      "despatx": "Google meet",
+      "email": "laure.piscina@upc.edu",
+      "id_gauss": 1000425,
+      "nom_prof": "LAUREANO RAMIREZ DE LA PISCINA MILLAN"
+    },
+    {
+      "consultes": [
+        "Dilluns 16:00-18:00",
+        "Dimecres 16:00-18:00",
+        "Dijous 16:00-18:00"
+      ],
+      "despatx": "C3-109",
+      "email": "aina.llado@upc.edu",
+      "id_gauss": 1000481,
+      "nom_prof": "ANNA LLADO SANCHEZ"
+    },
+    {
+      "consultes": [
+        "Dimecres 10:00-14:00",
+        "Divendres 10:00-12:00"
+      ],
+      "despatx": "C3-309",
+      "email": "francisco.barcelo@upc.edu",
+      "id_gauss": 1000491,
+      "nom_prof": "FRANCISCO BARCELO ARROYO"
+    },
+    {
+      "consultes": [
+        "Divendres 17:00-19:00",
+        "Dimecres 10:00-12:00",
+        "Dimecres 15:00-17:00"
+      ],
+      "despatx": "D3-108",
+      "email": "juan-manuel.rius@upc.edu",
+      "id_gauss": 1000554,
+      "nom_prof": "JUAN-MANUEL RIUS CASALS"
+    },
+    {
+      "consultes": [
+        "Dimarts 10:00-12:00",
+        "Dimecres 12:00-14:00"
+      ],
+      "despatx": "ETSEIB-",
+      "email": "montserrat.garcia@upc.edu",
+      "id_gauss": 1000583,
+      "nom_prof": "MONTSERRAT GARCIA ALVAREZ"
+    },
+    {
+      "consultes": [
+        "Dimecres 11:00-13:00"
+      ],
+      "despatx": "D5-112",
+      "email": "marga.cabrera@upc.edu",
+      "id_gauss": 1000611,
+      "nom_prof": "MARGARITA ASUNCION CABRERA BEAN"
+    },
+    {
+      "consultes": [
+        "Dilluns 10:00-13:00",
+        "Dijous 10:00-13:00"
+      ],
+      "despatx": "B5-007",
+      "email": "marta.net@upc.edu",
+      "id_gauss": 1000640,
+      "nom_prof": "MARTA NET MARCE"
+    },
+    {
+      "consultes": [
+        "Dimecres 10:00-12:00",
+        "Dimarts 16:00-18:00",
+        "Divendres 14:00-16:00"
+      ],
+      "despatx": "https://meet.google.com/hza-wnrw-ffn",
+      "email": "comeron@tsc.upc.edu",
+      "id_gauss": 1000824,
+      "nom_prof": "ADOLFO COMERON TEJERO"
+    },
+    {
+      "consultes": [
+        "Dilluns 11:00-12:00",
+        "Dimarts 10:00-13:00",
+        "Dijous 10:00-12:00"
+      ],
+      "despatx": "D3-207",
+      "email": "antoni.elias@upc.edu",
+      "id_gauss": 1000825,
+      "nom_prof": "ANTONIO ELÍAS FUSTE"
+    },
+    {
+      "consultes": [
+        "Dijous 10:00-13:00",
+        "Divendres 10:00-13:00"
+      ],
+      "despatx": "Google Meet",
+      "email": "climent.nadeu@upc.edu",
+      "id_gauss": 1000832,
+      "nom_prof": "CLIMENT NADEU CAMPRUBI"
+    },
+    {
+      "consultes": [
+        "Dilluns 08:00-10:00",
+        "Dimarts 08:00-10:00",
+        "Dimecres 08:00-10:00"
+      ],
+      "despatx": "D3-208",
+      "email": "ignasi.corbella@upc.edu",
+      "id_gauss": 1000877,
+      "nom_prof": "IGNASI CORBELLA SANAHUJA"
+    },
+    {
+      "consultes": [
+        "Dilluns 11:00-13:00",
+        "Dimecres 11:00-13:00",
+        "Divendres 11:00-13:00"
+      ],
+      "despatx": "on-line",
+      "email": "ferranc@tsc.upc.edu",
+      "id_gauss": 1000908,
+      "nom_prof": "FERNANDO-JOSE CASADEVALL PALACIO"
+    },
+    {
+      "consultes": [
+        "Dilluns 10:00-12:00",
+        "Dimecres 10:00-12:00",
+        "Divendres 12:00-14:00"
+      ],
+      "despatx": "C3-207",
+      "email": "paz.morillo@upc.edu",
+      "id_gauss": 1000946,
+      "nom_prof": "MARIA PAZ MORILLO BOSCH"
+    },
+    {
+      "consultes": [
+        "Dimarts 08:00-10:00",
+        "Dijous 08:00-10:00",
+        "Dilluns 08:00-10:00"
+      ],
+      "despatx": "C3-211",
+      "email": "jaume.sanz@upc.edu",
+      "id_gauss": 1000997,
+      "nom_prof": "JAIME SANZ SUBIRANA"
+    },
+    {
+      "consultes": [
+        "Dilluns 10:00-12:00",
+        "Dimarts 10:00-12:00",
+        "Dimarts 15:00-17:00"
+      ],
+      "despatx": "Telemàtic",
+      "email": "miquel.escudero@upc.edu",
+      "id_gauss": 1000999,
+      "nom_prof": "MIGUEL ESCUDERO ROYO"
+    },
+    {
+      "consultes": [
+        "Dijous 19:00-21:00",
+        "Dilluns 16:00-18:00",
+        "Dimecres 17:00-19:00"
+      ],
+      "despatx": "On-Line",
+      "email": "gregori.vazquez@upc.edu",
+      "id_gauss": 1001025,
+      "nom_prof": "GREGORIO VAZQUEZ GRAU"
+    },
+    {
+      "consultes": [
+        "Divendres 09:00-11:00",
+        "Dilluns 10:00-12:00",
+        "Dilluns 17:00-19:00"
+      ],
+      "despatx": "Telematic",
+      "email": "francesc.guinjoan@upc.edu",
+      "id_gauss": 1001113,
+      "nom_prof": "FRANCISCO JUAN GUINJOAN GISPERT"
+    },
+    {
+      "consultes": [
+        "Dilluns 12:00-14:00",
+        "Dimecres 16:00-18:00",
+        "Dimarts 12:00-14:00"
+      ],
+      "despatx": "online",
+      "email": "domingo.garcia@upc.edu",
+      "id_gauss": 1001254,
+      "nom_prof": "DOMINGO GARCÍA SENZ"
+    },
+    {
+      "consultes": [
+        "Dimecres 10:00-12:00",
+        "Dilluns 10:00-12:00",
+        "Dimarts 10:00-12:00"
+      ],
+      "despatx": "D3-211",
+      "email": "mallorqui@tsc.upc.edu",
+      "id_gauss": 1001668,
+      "nom_prof": "JORDI JOAN MALLORQUI FRANQUET"
+    },
+    {
+      "consultes": [
+        "Dimecres 09:00-11:00",
+        "Dijous 09:00-11:00",
+        "Dimarts 09:00-11:00"
+      ],
+      "despatx": "D3-117",
+      "email": "merce@tsc.upc.edu",
+      "id_gauss": 1001674,
+      "nom_prof": "MERCEDES MAGDALENA VALL-LLOSSERA FERRAN"
+    },
+    {
+      "consultes": [
+        "Dimarts 12:00-14:00",
+        "Dimecres 09:00-11:00",
+        "Dijous 10:00-12:00"
+      ],
+      "despatx": "D3-117",
+      "email": "nuria.duffo@upc.edu",
+      "id_gauss": 1001734,
+      "nom_prof": "NURIA DUFFO UBEDA"
+    },
+    {
+      "consultes": [
+        "Dilluns 10:00-12:00",
+        "Dimarts 14:00-16:00",
+        "Divendres 10:00-12:00"
+      ],
+      "despatx": "D3-109",
+      "email": "alberto.aguasca@upc.edu",
+      "id_gauss": 1001845,
+      "nom_prof": "ALBERTO AGUASCA SOLE"
+    },
+    {
+      "consultes": [
+        "Dimarts 10:00-13:00",
+        "Dijous 10:00-13:00"
+      ],
+      "despatx": "D3-104",
+      "email": "sebastian.blanch@upc.edu",
+      "id_gauss": 1001847,
+      "nom_prof": "SEBASTIAN BLANCH BORIS"
+    },
+    {
+      "consultes": [
+        "Divendres 10:00-12:00",
+        "Dimecres 10:00-13:00",
+        "Dijous 12:00-13:00"
+      ],
+      "despatx": "C5-112",
+      "email": "antoni.turo@upc.edu",
+      "id_gauss": 1001856,
+      "nom_prof": "ANTONIO TURO PEROY"
+    },
+    {
+      "consultes": [
+        "Dilluns 12:00-14:00",
+        "Dimecres 10:00-12:00",
+        "Divendres 10:00-12:00"
+      ],
+      "despatx": "meet",
+      "email": "antonio.rubio@upc.edu",
+      "id_gauss": 1001867,
+      "nom_prof": "JOSE ANTONIO RUBIO SOLA"
+    },
+    {
+      "consultes": [
+        "Dilluns 15:00-17:00",
+        "Dimarts 16:00-18:00",
+        "Divendres 18:00-20:00"
+      ],
+      "despatx": "C4-208",
+      "email": "angel.rodriguez@upc.edu",
+      "id_gauss": 1001888,
+      "nom_prof": "ANGEL RODRIGUEZ MARTINEZ"
+    },
+    {
+      "consultes": [
+        "Dimecres 12:00-18:00"
+      ],
+      "despatx": "C3-210",
+      "email": "manuel.hernandez@upc.edu",
+      "id_gauss": 1001954,
+      "nom_prof": "MANUEL HERNANDEZ PAJARES"
+    },
+    {
+      "consultes": [
+        "Dilluns 10:30-12:30",
+        "Dimarts 12:00-13:00",
+        "Dimecres 10:30-11:30",
+        "Dijous 10:00-12:00"
+      ],
+      "despatx": "online",
+      "email": "mireia.fernandez@upc.edu",
+      "id_gauss": 1001975,
+      "nom_prof": "MIREYA FERNANDEZ CHIMENO"
+    },
+    {
+      "consultes": [
+        "Dimarts 10:00-12:00",
+        "Dimecres 11:00-13:00",
+        "Dijous 11:00-13:00"
+      ],
+      "despatx": "C3-303",
+      "email": "antonio.barba@upc.edu",
+      "id_gauss": 1002061,
+      "nom_prof": "ANTONIO BARBA MARTI"
+    },
+    {
+      "consultes": [
+        "Dimarts 11:00-13:00",
+        "Dijous 11:00-13:00",
+        "Divendres 11:00-13:00"
+      ],
+      "despatx": "ETSEIB 11.55",
+      "email": "domingo.biel@upc.edu",
+      "id_gauss": 1002076,
+      "nom_prof": "DOMINGO BIEL SOLE"
+    },
+    {
+      "consultes": [
+        "Dilluns 14:00-17:00",
+        "Dijous 10:00-13:00"
+      ],
+      "despatx": "Online",
+      "email": "p.martin@upc.edu",
+      "id_gauss": 1002206,
+      "nom_prof": "PAU MARTIN DE LA TORRE"
+    },
+    {
+      "consultes": [
+        "Dimarts 14:00-16:00",
+        "Dimecres 10:00-12:00",
+        "Dijous 14:00-18:00"
+      ],
+      "despatx": "D4-210",
+      "email": "orestes@tsc.upc.edu",
+      "id_gauss": 1002240,
+      "nom_prof": "ORESTES MIQUEL MAS CASALS"
+    },
+    {
+      "consultes": [
+        "Dilluns 10:00-13:00",
+        "Dijous 15:00-18:00"
+      ],
+      "despatx": "D5-107",
+      "email": "javier.hernando@upc.edu",
+      "id_gauss": 1002241,
+      "nom_prof": "FRANCISCO JAVIER HERNANDO PERICAS"
+    },
+    {
+      "consultes": [
+        "Dimarts 10:00-13:00",
+        "Dijous 15:00-18:00"
+      ],
+      "despatx": "D5-213",
+      "email": "josep.ramon.casas@upc.edu",
+      "id_gauss": 1002258,
+      "nom_prof": "JOSEP RAMON CASAS PLA"
+    },
+    {
+      "consultes": [
+        "Dimarts 14:00-16:00",
+        "Divendres 09:30-11:30",
+        "Dilluns 10:00-12:00"
+      ],
+      "despatx": "D5-202",
+      "email": "philippe.salembier@upc.edu",
+      "id_gauss": 1002289,
+      "nom_prof": "PHILIPPE SALEMBIER CLAIRON"
+    },
+    {
+      "consultes": [
+        "Dimarts 14:00-17:00",
+        "Dimecres 14:00-17:00"
+      ],
+      "despatx": "C4-304",
+      "email": "jramos@eel.upc.edu",
+      "id_gauss": 1002322,
+      "nom_prof": "JUAN JOSE RAMOS CASTRO"
+    },
+    {
+      "consultes": [
+        "Dimarts 14:00-16:00",
+        "Divendres 12:00-13:00",
+        "Dimarts 10:00-13:00"
+      ],
+      "despatx": "C5-114",
+      "email": "juan.antonio.chavez@upc.edu",
+      "id_gauss": 1002324,
+      "nom_prof": "JUAN ANTONIO CHAVEZ DOMINGUEZ"
+    },
+    {
+      "consultes": [
+        "Dimarts 08:00-11:00",
+        "Divendres 08:00-11:00"
+      ],
+      "despatx": "C5-104",
+      "email": "santiago.silvestre@upc.edu",
+      "id_gauss": 1002325,
+      "nom_prof": "SANTIAGO SILVESTRE BERGES"
+    },
+    {
+      "consultes": [
+        "Dimecres 10:00-13:00",
+        "Divendres 10:00-13:00"
+      ],
+      "despatx": "B5-107",
+      "email": "arantxa.alonso@upc.edu",
+      "id_gauss": 1002338,
+      "nom_prof": "MARIA ARANZAZU ALONSO MALETA"
+    },
+    {
+      "consultes": [
+        "Dimarts 14:00-16:00",
+        "Dijous 10:00-12:00",
+        "Dilluns 14:00-16:00"
+      ],
+      "despatx": "",
+      "email": "jaume.riba@upc.edu",
+      "id_gauss": 1002346,
+      "nom_prof": "JAUME RIBA SAGARRA"
+    },
+    {
+      "consultes": [
+        "Dimecres 13:00-15:00"
+      ],
+      "despatx": "C6-216",
+      "email": "marta@ac.upc.edu",
+      "id_gauss": 1002356,
+      "nom_prof": "MARTA JIMENEZ CASTELLS"
+    },
+    {
+      "consultes": [
+        "Dimarts 10:00-12:30",
+        "Dijous 08:30-12:00"
+      ],
+      "despatx": "Videoconferencia",
+      "email": "jorge.mata@upc.edu",
+      "id_gauss": 1002368,
+      "nom_prof": "JORGE MATA DIAZ"
+    },
+    {
+      "consultes": [
+        "Dilluns 09:00-12:00",
+        "Dimarts 11:00-14:00"
+      ],
+      "despatx": "telemàtic",
+      "email": "francesc.moll@upc.edu",
+      "id_gauss": 1002380,
+      "nom_prof": "FRANCESC DE BORJA MOLL ECHETO"
+    },
+    {
+      "consultes": [
+        "Dimarts 09:00-12:00",
+        "Dijous 09:00-12:00"
+      ],
+      "despatx": "D5-111",
+      "email": "ferran.marques@upc.edu",
+      "id_gauss": 1002404,
+      "nom_prof": "FERNANDO MARQUES ACOSTA"
+    },
+    {
+      "consultes": [
+        "Dimecres 10:00-12:00",
+        "Dimarts 14:00-16:00",
+        "Dijous 10:30-12:30"
+      ],
+      "despatx": "D3-118",
+      "email": "francisco.javier.fabregas@upc.edu",
+      "id_gauss": 1002405,
+      "nom_prof": "FRANCISCO JAVIER FABREGAS CANOVAS"
+    },
+    {
+      "consultes": [
+        "Dimecres 10:00-13:00",
+        "Dimecres 15:00-18:00"
+      ],
+      "despatx": "C5-111",
+      "email": "jorge.salazar@upc.edu",
+      "id_gauss": 1002412,
+      "nom_prof": "JORGE SALAZAR SOLER"
+    },
+    {
+      "consultes": [
+        "Dilluns 10:00-12:00",
+        "Dimarts 15:00-17:00",
+        "Dimecres 15:00-17:00"
+      ],
+      "despatx": "C4-006",
+      "email": "vicente.jimenez@upc.edu",
+      "id_gauss": 1002413,
+      "nom_prof": "VICENTE JIMENEZ SERRES"
+    },
+    {
+      "consultes": [
+        "Dilluns 08:00-10:00",
+        "Dimarts 08:00-10:00",
+        "Dimecres 10:00-12:00"
+      ],
+      "despatx": "C4-205",
+      "email": "dani.bardes@upc.edu",
+      "id_gauss": 1002414,
+      "nom_prof": "DANIEL BARDES LLORENSI"
+    },
+    {
+      "consultes": [
+        "Dimecres 10:00-13:00",
+        "Dilluns 10:00-13:00"
+      ],
+      "despatx": "on-line",
+      "email": "javier.fonollosa@upc.edu",
+      "id_gauss": 1002425,
+      "nom_prof": "JAVIER RODRIGUEZ FONOLLOSA"
+    },
+    {
+      "consultes": [
+        "Dimecres 09:30-12:30",
+        "Divendres 09:30-12:30"
+      ],
+      "despatx": "Online",
+      "email": "roca@tsc.upc.edu",
+      "id_gauss": 1002427,
+      "nom_prof": "FRANCISCO ROCADENBOSCH BURILLO"
+    },
+    {
+      "consultes": [
+        "Dijous 12:00-14:00",
+        "Dilluns 10:00-12:00",
+        "Dimarts 12:00-14:00"
+      ],
+      "despatx": "D5-106",
+      "email": "jprat@tsc.upc.edu",
+      "id_gauss": 1002434,
+      "nom_prof": "JOSEP JOAN PRAT GOMA"
+    },
+    {
+      "consultes": [
+        "Divendres 11:00-13:00",
+        "Dimecres 11:00-13:00",
+        "Dilluns 11:00-13:00"
+      ],
+      "despatx": "C4-113",
+      "email": "xavier.aragones@upc.edu",
+      "id_gauss": 1002476,
+      "nom_prof": "XAVIER ARAGONES CERVERA"
+    },
+    {
+      "consultes": [
+        "Dilluns 12:00-14:00",
+        "Dimecres 12:00-14:00",
+        "Dimarts 10:00-12:00"
+      ],
+      "despatx": "C3-311",
+      "email": "jordi.casademont@upc.edu",
+      "id_gauss": 1002480,
+      "nom_prof": "JORDI CASADEMONT SERRA"
+    },
+    {
+      "consultes": [
+        "Dilluns 09:00-12:00",
+        "Dimecres 09:00-12:00"
+      ],
+      "despatx": "Meet",
+      "email": "montse.najar@upc.edu",
+      "id_gauss": 1002483,
+      "nom_prof": "MONTSERRAT NAJAR MARTON"
+    },
+    {
+      "consultes": [
+        "Dimecres 15:00-19:00",
+        "Dijous 11:00-13:00"
+      ],
+      "despatx": "D4-016",
+      "email": "camps@tsc.upc.edu",
+      "id_gauss": 1002484,
+      "nom_prof": "ADRIANO JOSE CAMPS CARMONA"
+    },
+    {
+      "consultes": [
+        "Dilluns 08:00-14:00"
+      ],
+      "despatx": "D3-211",
+      "email": "joan.ocallaghan@upc.edu",
+      "id_gauss": 1002501,
+      "nom_prof": "JUAN MANUEL O'CALLAGHAN CASTELLA"
+    },
+    {
+      "consultes": [
+        "Dimecres 10:00-13:30",
+        "Divendres 15:00-17:30"
+      ],
+      "despatx": "D5-116",
+      "email": "josep.salavedra@upc.edu",
+      "id_gauss": 1002517,
+      "nom_prof": "JOSEP SALAVEDRA MOLI"
+    },
+    {
+      "consultes": [
+        "Dilluns 12:00-15:00",
+        "Dimecres 11:00-14:00"
+      ],
+      "despatx": "C3-304bis",
+      "email": "xavier.hesselbach@upc.edu",
+      "id_gauss": 1002571,
+      "nom_prof": "XAVIER HESSELBACH SERRA"
+    },
+    {
+      "consultes": [
+        "Dimarts 08:00-10:00",
+        "Dimarts 13:00-14:00",
+        "Dilluns 09:00-12:00"
+      ],
+      "despatx": "C3-302 (o atenció online durant pandemia))",
+      "email": "jordi.forne@upc.edu",
+      "id_gauss": 1002572,
+      "nom_prof": "JORGE FORNE MUÑOZ"
+    },
+    {
+      "consultes": [
+        "Dilluns 10:00-12:00",
+        "Dijous 10:00-12:00",
+        "Dimarts 16:00-18:00"
+      ],
+      "despatx": "C3-305b",
+      "email": "juan.luis.gorricho@upc.edu",
+      "id_gauss": 1002573,
+      "nom_prof": "JUAN LUIS GORRICHO MORENO"
+    },
+    {
+      "consultes": [
+        "Dimecres 15:00-17:00",
+        "Dijous 10:00-12:00",
+        "Dimarts 15:00-17:00"
+      ],
+      "despatx": "C3-313",
+      "email": "luis.delacruz@upc.edu",
+      "id_gauss": 1002574,
+      "nom_prof": "LUIS JAVIER DE LA CRUZ LLOPIS"
+    },
+    {
+      "consultes": [
+        "Dimarts 10:00-12:00",
+        "Dimarts 17:00-19:00",
+        "Dijous 16:00-18:00"
+      ],
+      "despatx": "C5-103",
+      "email": "joan.manuel.moreno@upc.edu",
+      "id_gauss": 1002597,
+      "nom_prof": "JUAN MANUEL MORENO AROSTEGUI"
+    },
+    {
+      "consultes": [
+        "Dijous 09:00-12:00",
+        "Dilluns 15:00-17:00",
+        "Dilluns 09:00-12:00"
+      ],
+      "despatx": "C4-111/ Online",
+      "email": "eva.vidal@upc.edu",
+      "id_gauss": 1002599,
+      "nom_prof": "EVA MARIA VIDAL LOPEZ"
+    },
+    {
+      "consultes": [
+        "Dimecres 10:00-13:00",
+        "Dilluns 10:00-13:00"
+      ],
+      "despatx": "D4-105",
+      "email": "jose.oriol.sallent@upc.edu",
+      "id_gauss": 1002614,
+      "nom_prof": "JOSE ORIOL SALLENT ROIG"
+    },
+    {
+      "consultes": [
+        "Dilluns 12:00-13:00",
+        "Dimarts 10:00-12:00",
+        "Dilluns 09:00-10:00",
+        "Dijous 14:00-16:00"
+      ],
+      "despatx": "D4-015",
+      "email": "david.artigas@upc.edu",
+      "id_gauss": 1002663,
+      "nom_prof": "DAVID ARTIGAS GARCIA"
+    },
+    {
+      "consultes": [
+        "Dimarts 14:00-16:00",
+        "Dijous 11:00-13:00",
+        "Dimarts 10:00-12:00"
+      ],
+      "despatx": "D5-105",
+      "email": "comellas@tsc.upc.edu",
+      "id_gauss": 1002667,
+      "nom_prof": "JAUME COMELLAS COLOME"
+    },
+    {
+      "consultes": [
+        "Dimecres 10:00-13:00",
+        "Dijous 10:00-13:00"
+      ],
+      "despatx": "C4-305B",
+      "email": "miquel.angel.garcia@upc.edu",
+      "id_gauss": 1002715,
+      "nom_prof": "MIQUEL ANGEL GARCIA GONZALEZ"
+    },
+    {
+      "consultes": [
+        "Dimarts 09:30-16:00",
+        "Dilluns 09:30-16:00",
+        "Dimecres 09:30-12:30",
+        "Dijous 09:30-16:30",
+        "Divendres 09:30-16:30"
+      ],
+      "despatx": "C4-005",
+      "email": "joaquim.puigdollers@upc.edu",
+      "id_gauss": 1002739,
+      "nom_prof": "JOAQUIN PUIGDOLLERS GONZALEZ"
+    },
+    {
+      "consultes": [
+        "Dilluns 09:00-12:00",
+        "Dimecres 09:00-12:00"
+      ],
+      "despatx": "C3-301",
+      "email": "monica.aguilar@upc.edu",
+      "id_gauss": 1002744,
+      "nom_prof": "MONICA AGUILAR IGARTUA"
+    },
+    {
+      "consultes": [
+        "Divendres 08:00-14:00"
+      ],
+      "despatx": "Online o C3-317",
+      "email": "anna.calveras@upc.edu",
+      "id_gauss": 1002745,
+      "nom_prof": "ANA M. CALVERAS AUGE"
+    },
+    {
+      "consultes": [
+        "Divendres 10:00-12:00",
+        "Dimecres 10:00-14:00"
+      ],
+      "despatx": "on line",
+      "email": "esteve.pallares@upc.edu",
+      "id_gauss": 1002746,
+      "nom_prof": "ESTEVE PALLARES SEGARRA"
+    },
+    {
+      "consultes": [
+        "Dilluns 14:00-18:00",
+        "Dimarts 16:00-18:00"
+      ],
+      "despatx": "C3-305a",
+      "email": "alfonso.rojas@upc.edu",
+      "id_gauss": 1002747,
+      "nom_prof": "ALFONSO ROJAS ESPINOSA"
+    },
+    {
+      "consultes": [
+        "Dijous 16:00-19:00",
+        "Dimarts 16:00-19:00"
+      ],
+      "despatx": "D5-114A",
+      "email": "olga.munoz@upc.edu",
+      "id_gauss": 1002750,
+      "nom_prof": "OLGA MUÑOZ MEDINA"
+    },
+    {
+      "consultes": [
+        "Dimarts 17:00-18:00",
+        "Dimecres 15:00-17:00",
+        "Dimecres 09:00-10:00",
+        "Dimarts 12:00-14:00"
+      ],
+      "despatx": "D4-107",
+      "email": "ferrus@tsc.upc.edu",
+      "id_gauss": 1002795,
+      "nom_prof": "RAMON ANTONIO FERRUS FERRE"
+    },
+    {
+      "consultes": [
+        "Dilluns 08:00-10:00",
+        "Dimarts 08:00-10:00",
+        "Dijous 08:00-10:00"
+      ],
+      "despatx": "Meet de classe",
+      "email": "ferran.sabate@upc.edu",
+      "id_gauss": 1002877,
+      "nom_prof": "FERRAN SABATE GARRIGA"
+    },
+    {
+      "consultes": [
+        "Dilluns 11:00-13:00",
+        "Dimarts 15:00-17:00",
+        "Dimecres 17:00-19:00"
+      ],
+      "despatx": "online",
+      "email": "ignasi.esquerra@upc.edu",
+      "id_gauss": 1002887,
+      "nom_prof": "IGNASI ESQUERRA LLUCIÀ"
+    },
+    {
+      "consultes": [
+        "Dijous 12:00-15:30",
+        "Dimarts 10:00-12:00",
+        "Dimarts 14:00-15:00"
+      ],
+      "despatx": "D5-008",
+      "email": "albino.nogueiras@upc.edu",
+      "id_gauss": 1003094,
+      "nom_prof": "ALBINO NOGUEIRAS RODRIGUEZ"
+    },
+    {
+      "consultes": [
+        "Dilluns 12:00-14:00",
+        "Dilluns 16:00-18:00"
+      ],
+      "despatx": "C4-204/meet session",
+      "email": "josep.altet@upc.edu",
+      "id_gauss": 1003100,
+      "nom_prof": "JOSEP ALTET SANAHUJES"
+    },
+    {
+      "consultes": [
+        "Dilluns 16:00-18:00",
+        "Dimecres 11:00-13:00",
+        "Dijous 10:00-12:00"
+      ],
+      "despatx": "Online (D5-009)",
+      "email": "francesc.rey@upc.edu",
+      "id_gauss": 1003197,
+      "nom_prof": "FRANCESC REY MICOLAU"
+    },
+    {
+      "consultes": [
+        "Divendres 12:00-14:00"
+      ],
+      "despatx": "B3 2a planta",
+      "email": "josep.pegueroles@upc.edu",
+      "id_gauss": 1003202,
+      "nom_prof": "JOSEP RAFAEL PEGUEROLES VALLES"
+    },
+    {
+      "consultes": [
+        "Dilluns 10:00-13:00",
+        "Divendres 10:00-13:00"
+      ],
+      "despatx": "C3-308",
+      "email": "marcos.postigo@upc.edu",
+      "id_gauss": 1003205,
+      "nom_prof": "MARCOS POSTIGO BOIX"
+    },
+    {
+      "consultes": [
+        "Dimarts 10:00-13:00",
+        "Dimecres 16:00-19:00"
+      ],
+      "despatx": "Preferible videoconferencia.",
+      "email": "jorperez@tsc.upc.edu",
+      "id_gauss": 1003253,
+      "nom_prof": "JORGE PEREZ ROMERO"
+    },
+    {
+      "consultes": [
+        "Dijous 15:00-18:00",
+        "Dimarts 15:00-18:00"
+      ],
+      "despatx": "B4-107",
+      "email": "jose.eduardo.garcia@upc.edu",
+      "id_gauss": 1003366,
+      "nom_prof": "JOSE EDUARDO GARCIA GARCIA"
+    },
+    {
+      "consultes": [
+        "Dimecres 10:00-12:00",
+        "Dilluns 16:00-18:00",
+        "Dilluns 12:00-14:00"
+      ],
+      "despatx": "D5-101",
+      "email": "rosanna.perez@upc.edu",
+      "id_gauss": 1003420,
+      "nom_prof": "ROSANNA PEREZ PUEYO"
+    },
+    {
+      "consultes": [
+        "Divendres 08:00-11:00",
+        "Dilluns 08:00-11:00"
+      ],
+      "despatx": "C3-310",
+      "email": "jose.luis.munoz@upc.edu",
+      "id_gauss": 1003463,
+      "nom_prof": "JOSE LUIS MUÑOZ TAPIA"
+    },
+    {
+      "consultes": [
+        "Dilluns 10:00-12:00",
+        "Dimecres 10:00-12:00",
+        "Dijous 10:00-12:00"
+      ],
+      "despatx": "C4-007",
+      "email": "isidro.martin@upc.edu",
+      "id_gauss": 1003515,
+      "nom_prof": "ISIDRO MARTIN GARCIA"
+    },
+    {
+      "consultes": [
+        "Dijous 16:30-19:30",
+        "Dimarts 16:00-19:00"
+      ],
+      "despatx": "Meet",
+      "email": "isabel.martin-faus@upc.edu",
+      "id_gauss": 1003578,
+      "nom_prof": "ISABEL VICTORIA MARTIN FAUS"
+    },
+    {
+      "consultes": [
+        "Dijous 10:00-14:00",
+        "Divendres 09:00-11:00"
+      ],
+      "despatx": "C3-310",
+      "email": "oscar.esparza@upc.edu",
+      "id_gauss": 1003602,
+      "nom_prof": "OSCAR ESPARZA MARTIN"
+    },
+    {
+      "consultes": [
+        "Divendres 14:00-20:00"
+      ],
+      "despatx": "Laboratori",
+      "email": "valverde@ac.upc.edu",
+      "id_gauss": 1003605,
+      "nom_prof": "ANTONIO JAVIER VALVERDE AMADOR"
+    },
+    {
+      "consultes": [
+        "Dimecres 10:00-12:00",
+        "Divendres 10:00-12:00",
+        "Dilluns 10:00-12:00"
+      ],
+      "despatx": "D4-015",
+      "email": "joan.gene@upc.edu",
+      "id_gauss": 1003614,
+      "nom_prof": "JOAN MANUEL GENE BERNAUS"
+    },
+    {
+      "consultes": [
+        "Dilluns 10:00-13:00",
+        "Dimecres 10:00-13:00"
+      ],
+      "despatx": "D4-113",
+      "email": "anna.umbert@upc.edu",
+      "id_gauss": 1003615,
+      "nom_prof": "ANNA UMBERT JULIANA"
+    },
+    {
+      "consultes": [
+        "Dijous 10:00-13:00",
+        "Dimarts 12:00-15:00"
+      ],
+      "despatx": "D3-101",
+      "email": "heldring@tsc.upc.edu",
+      "id_gauss": 1003715,
+      "nom_prof": "ALEXANDER HELDRING"
+    },
+    {
+      "consultes": [
+        "Dilluns 16:00-18:00",
+        "Dilluns 11:00-13:00",
+        "Dimecres 11:00-13:00"
+      ],
+      "despatx": "Online",
+      "email": "israel.martin@upc.edu",
+      "id_gauss": 1003837,
+      "nom_prof": "ISRAEL MARTÍN ESCALONA"
+    },
+    {
+      "consultes": [
+        "Divendres 13:00-14:00"
+      ],
+      "despatx": "Via Google Meet",
+      "email": "marc.eguiguren@upc.edu",
+      "id_gauss": 1003920,
+      "nom_prof": "MARCOS EGUIGUREN HUERTA"
+    },
+    {
+      "consultes": [
+        "Dilluns 15:00-18:00",
+        "Dimecres 10:00-13:00"
+      ],
+      "despatx": "A convenir",
+      "email": "pere.bruna@upc.edu",
+      "id_gauss": 1003976,
+      "nom_prof": "PERE BRUNA ESCUER"
+    },
+    {
+      "consultes": [
+        "Divendres 15:00-17:00",
+        "Dilluns 15:00-17:00",
+        "Dimarts 15:00-16:00"
+      ],
+      "despatx": "Meet",
+      "email": "javier.villares@upc.edu",
+      "id_gauss": 1004148,
+      "nom_prof": "NEMESIO JAVIER VILLARES PIERA"
+    },
+    {
+      "consultes": [
+        "Divendres 15:00-18:00",
+        "Dimarts 16:00-19:00"
+      ],
+      "despatx": "videoconferencia",
+      "email": "antonio.pascual@upc.edu",
+      "id_gauss": 1004149,
+      "nom_prof": "ANTONIO PASCUAL ISERTE"
+    },
+    {
+      "consultes": [
+        "Dijous 10:00-12:00",
+        "Dijous 15:00-17:00",
+        "Dilluns 14:00-16:00"
+      ],
+      "despatx": "D4-007",
+      "email": "msicard@tsc.upc.edu",
+      "id_gauss": 1004274,
+      "nom_prof": "MICHAËL SICARD"
+    },
+    {
+      "consultes": [
+        "Dilluns 08:00-14:00"
+      ],
+      "despatx": "C6-117",
+      "email": "jcosta@ac.upc.edu",
+      "id_gauss": 1004381,
+      "nom_prof": "JUAN JOSÉ COSTA PRATS"
+    },
+    {
+      "consultes": [
+        "Dimecres 14:00-15:00"
+      ],
+      "despatx": "ETSEIB (Ed. H)-Pl. 11",
+      "email": "arnau.doria@upc.edu",
+      "id_gauss": 1004531,
+      "nom_prof": "ARNAU DORIA CEREZO"
+    },
+    {
+      "consultes": [
+        "Dimecres 16:00-18:00",
+        "Divendres 16:00-18:00",
+        "Dilluns 16:00-18:00"
+      ],
+      "despatx": "D6-212",
+      "email": "guerrero@ac.upc.edu",
+      "id_gauss": 1004582,
+      "nom_prof": "MANEL GUERRERO ZAPATA"
+    },
+    {
+      "consultes": [
+        "Dimarts 14:00-16:00",
+        "Dijous 12:00-14:00"
+      ],
+      "despatx": "C6-E202",
+      "email": "evar@ac.upc.edu",
+      "id_gauss": 1004792,
+      "nom_prof": "EVA RODRIGUEZ LUNA"
+    },
+    {
+      "consultes": [
+        "Dimarts 10:00-12:00",
+        "Dijous 10:00-12:00"
+      ],
+      "despatx": "D3-203",
+      "email": "carlos.lopezmartinez@upc.edu",
+      "id_gauss": 1045628,
+      "nom_prof": "CARLOS LOPEZ MARTINEZ"
+    },
+    {
+      "consultes": [
+        "Dimarts 16:00-20:00",
+        "Dilluns 16:00-18:00"
+      ],
+      "despatx": "D5-208",
+      "email": "sisco.vallverdu@upc.edu",
+      "id_gauss": 1046504,
+      "nom_prof": "FRANCISCO VALLVERDU BAYES"
+    },
+    {
+      "consultes": [
+        "Dimarts 10:00-12:00"
+      ],
+      "despatx": "C4-213",
+      "email": "enrique.barajas@upc.edu",
+      "id_gauss": 1048102,
+      "nom_prof": "ENRIQUE BARAJAS OJEDA"
+    },
+    {
+      "consultes": [
+        "Dilluns 17:30-19:00",
+        "Dimecres 10:00-11:00"
+      ],
+      "despatx": "meet.google.com/seq-qwan-bys",
+      "email": "jose.lazaro@tsc.upc.edu",
+      "id_gauss": 1049546,
+      "nom_prof": "JOSE ANTONIO LAZARO VILLA"
+    },
+    {
+      "consultes": [
+        "Dilluns 10:00-12:00",
+        "Dilluns 14:00-16:00",
+        "Dijous 10:00-12:00"
+      ],
+      "despatx": "D6-216",
+      "email": "perello@ac.upc.edu",
+      "id_gauss": 1057151,
+      "nom_prof": "JORDI PERELLO MUNTAN"
+    },
+    {
+      "consultes": [
+        "Dimecres 14:00-16:00"
+      ],
+      "despatx": "GOOGLE MEET (a covenir)",
+      "email": "abadal@ac.upc.edu",
+      "id_gauss": 1069516,
+      "nom_prof": "SERGI ABADAL CAVALLÉ"
+    },
+    {
+      "consultes": [
+        "Dimarts 10:00-12:00"
+      ],
+      "despatx": "On-line",
+      "email": "silviall@ac.upc.edu",
+      "id_gauss": 1105308,
+      "nom_prof": "SILVIA LLORENTE VIEJO"
+    },
+    {
+      "consultes": [
+        "Dimecres 10:00-12:00",
+        "Dijous 10:00-12:00",
+        "Divendres 10:00-12:00",
+        "Dilluns 10:00-12:00"
+      ],
+      "despatx": "TR14 GAIA-1.08",
+      "email": "a.pons@upc.edu",
+      "id_gauss": 1111805,
+      "nom_prof": "ANTONIO JAVIER PONS RIVERO"
+    },
+    {
+      "consultes": [
+        "Dimecres 10:00-12:00",
+        "Dilluns 10:00-12:00"
+      ],
+      "despatx": "C4 Lab 313",
+      "email": "marc.mateu.mateus@upc.edu",
+      "id_gauss": 1137076,
+      "nom_prof": "MARC MATEU MATEUS"
+    },
+    {
+      "consultes": [
+        "Dimarts 10:00-13:00",
+        "Dijous 13:30-16:30"
+      ],
+      "despatx": "D5-119",
+      "email": "ferran.de.cabrera@upc.edu",
+      "id_gauss": 1148539,
+      "nom_prof": "FERRAN DE CABRERA ESTANYOL"
+    },
+    {
+      "consultes": [
+        "Divendres 15:00-16:00"
+      ],
+      "despatx": "C4",
+      "email": "rafael.caceres@upc.edu",
+      "id_gauss": 1168839,
+      "nom_prof": "RAFAEL CÁCERES CALVENTE"
+    },
+    {
+      "consultes": [
+        "Dijous 13:00-15:00"
+      ],
+      "despatx": "C6-122 ",
+      "email": "sandra.macia@upc.edu",
+      "id_gauss": 1186321,
+      "nom_prof": "SANDRA MACIÀ SORROSAL"
+    },
+    {
+      "consultes": [
+        "Dimecres 18:00-19:00"
+      ],
+      "despatx": "C4-PLANTA 108",
+      "email": "marco.azpurua@upc.edu",
+      "id_gauss": 1189199,
+      "nom_prof": "BARÓN MARCO AURELIO AZPÚRUA AUYANET"
+    },
+    {
+      "consultes": [
+        "Dilluns 09:00-11:00"
+      ],
+      "despatx": "ICFO- office 024",
+      "email": "leticia.tarruell@icfo.es",
+      "id_gauss": 1217376,
+      "nom_prof": "LETICIA TARRUELL"
+    },
+    {
+      "consultes": [
+        "Divendres 15:00-17:00"
+      ],
+      "despatx": "Online Meet",
+      "email": "pietro.massignan@upc.edu",
+      "id_gauss": 1217525,
+      "nom_prof": "PIETRO ALBERTO MASSIGNAN"
+    }
+  ]
+}
