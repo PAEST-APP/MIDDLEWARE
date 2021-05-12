@@ -21,15 +21,18 @@
 */
 
 
-var fs = require("fs");
-//const { write } = require("node:fs");
+const fs = require("fs");
+
 const { obtenerHorariosConsulta } = require("./horarios_consulta");
-let json = require("/Users/adriansoriamontoya/Documents/GitHub/MIDDLEWARE/profesores_codigoActualizados.json");
+
+let json = require("/Users/escrotoman99/Desktop/PAE/horarios_consulta/profesores_codigoActualizados.json"); 
+
 for(let i = 0; i<json.length;i++){
-  json[i].horaris_consulta=obtenerHorariosConsulta(json[i]);
+json[i].horaris_consulta=obtenerHorariosConsulta(json[i]);
 }
 
-fs.writeFile("profesores.json", json, function(err, result){
+fs.writeFile("profesores.json", JSON.stringify(json), function(err, result){
     if(err) console.log('error', err);
 });
+
 
