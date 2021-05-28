@@ -47,32 +47,23 @@ const connection = mysql.createConnection({
 
 exports.handler = async (event) => {
     try{
-      var q = event.meetingStart.search("T");
-      var hora = event.meetingStart.slice(q + 1,q + 3);
-      var hora_nueva = parseInt(hora, 10) + 2;
-      var fechaStart = event.meetingStart.slice(0,q) + "T" + hora_nueva + event.meetingStart.slice(q+3, event.meetingStart.length - 1);
-      var dateStart = new Date(event.meetingStart);
-      var dateEnd = new Date(event.meetingEnd);
-      /*dateStart.setHours(dateStart.getHours() + 2);
-      dateEnd.setHours(dateEnd.getHours() + 2);
-      //meetStart = JSON.stringify(dateStart);
-      //meetEnd = JSON.stringify(dateEnd);
-      dateStart.setHours(dateStart.getHours() - 2);
-      dateEnd.setHours(dateEnd.getHours() - 2);*/
+      var dateStart = new Date((typeof event.meetingStart === "string" ? new Date(event.meetingStart) : event.meetingStart).toLocaleString("en-US", {timeZone: 'Europe/Madrid'})); 
+      var dateEnd = new Date((typeof event.meetingEnd === "string" ? new Date(event.meetingEnd) : event.meetingEnd).toLocaleString("en-US", {timeZone: 'Europe/Madrid'}));
+      meetStart = JSON.stringify(dateStart);
+      meetEnd = JSON.stringify(dateEnd);
       // Create a dummy event for temp uses in our calendar
       const evento = {
-
           summary: `Meeting with ` + event.teacherName + ` and ` + event.studentName,
           //esto cambiara en funcion de la facultad del profe
           location: `Campus Nord `,
           description: `Meet with ` + event.teacherName + " of" +event.teacherSubject,
           colorId: 1,
           start: {
-              dateTime: dateStart,
+              dateTime: event.meetingStart,
               timeZone: 'Europe/Madrid',
           },
           end: {
-              dateTime: dateEnd,
+              dateTime: event.meetingEnd,
               timeZone: 'Europe/Madrid',
           },
           'attendees': [
@@ -89,10 +80,11 @@ exports.handler = async (event) => {
       });          
       var hactu = JSON.parse(temp2[0].horaris_consulta);
       var m = -1;
-      var fecha = fechaStart.split("."); //"/"2021-06-02T10:00:00"
+      var fecha = meetStart.split("."); 
       for (var i = 0; i < hactu.length; i++){
-          if (hactu[i].includes(fecha[0])){
+          if (hactu[i].includes(fecha[0].slice(1, fecha[0].length))){
               m = i;
+              i = hactu.length;
           }
       }
       if (m != -1){
@@ -104,10 +96,8 @@ exports.handler = async (event) => {
           });
         });
         var response = calendar.events.insert({calendarId: 'primary', resource: evento, sendNotifications: true});
-        connection.end();
         return response
       }else{
-        connection.end();
         return 'Evento no creado'
       }
   }catch(err){    
