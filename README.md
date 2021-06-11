@@ -6,3 +6,6 @@ Here is all the scripts from the scrapping part. It was a first implementation f
 
 ## Get Professor
 This function is fulled implemented in the lambda server, you can observe the strucure of the data and the programms.
+
+## Create Event
+Here are the script to implement in the AWS Lambda and all the steps that are necessary to schedule a meeting.
